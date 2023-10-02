@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T08:12:24.546Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hn2JOuEu-2JDd3jfrBfP" version="22.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-02T08:30:29.963Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GaIFkPHemJQseaK83J3j" version="22.0.0" type="github" pages="2">
   <diagram id="rGpNEhP3CILQTx0U7mk3" name="Halaman-1">
-    <mxGraphModel dx="1173" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1600" dy="2062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pMevoOXxBbqRg2BDYsxg-132" value="Use Case&lt;br&gt;Verifikasi RKA&lt;br&gt;User SKPD" style="html=1;verticalAlign=top;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="-145.5" width="830" height="1047" as="geometry" />
         </mxCell>
-        <mxCell id="hTwiifSXvIFK9xggTOiT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pMevoOXxBbqRg2BDYsxg-2" target="pMevoOXxBbqRg2BDYsxg-6">
+        <mxCell id="hTwiifSXvIFK9xggTOiT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pMevoOXxBbqRg2BDYsxg-2" target="pMevoOXxBbqRg2BDYsxg-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMevoOXxBbqRg2BDYsxg-2" value="SUBMIT RKA" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
@@ -37,28 +37,28 @@
         <mxCell id="pMevoOXxBbqRg2BDYsxg-124" value="User SKPD" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="109" y="-21" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="96z63uC0hUcVTsx6QNmi-3" value="&lt;ul&gt;&lt;li&gt;BAPPEDA&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi indikator prog/keg, sumber dana, pagu.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;BPPKAD&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian belanja dan rekening.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;ADBANG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;PUPR&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pembangunan gedung.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;PBJ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pengadaan barang dan jasa.&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+        <mxCell id="96z63uC0hUcVTsx6QNmi-3" value="&lt;ul&gt;&lt;li&gt;BAPPEDA&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi indikator prog/keg, sumber dana, pagu.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;BPPKAD&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian belanja dan rekening.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;ADBANG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;PUPR&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pembangunan gedung.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;PBJ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pengadaan barang dan jasa.&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="619" y="70" width="150" height="409" as="geometry" />
         </mxCell>
-        <mxCell id="96z63uC0hUcVTsx6QNmi-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pMevoOXxBbqRg2BDYsxg-6" target="96z63uC0hUcVTsx6QNmi-3">
+        <mxCell id="96z63uC0hUcVTsx6QNmi-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pMevoOXxBbqRg2BDYsxg-6" target="96z63uC0hUcVTsx6QNmi-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="529.0000000000041" y="324.9999999999998" as="sourcePoint" />
             <mxPoint x="621" y="114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="96z63uC0hUcVTsx6QNmi-7" value="DIVERIFIKASI" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="96z63uC0hUcVTsx6QNmi-6">
+        <mxCell id="96z63uC0hUcVTsx6QNmi-7" value="DIVERIFIKASI" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="96z63uC0hUcVTsx6QNmi-6" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hTwiifSXvIFK9xggTOiT-5" value="&lt;b&gt;USER PPTK&lt;br&gt;mempertanggung jawabkan hasil verifikasi&lt;br&gt;&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="hTwiifSXvIFK9xggTOiT-5" value="&lt;b&gt;USER PPTK&lt;br&gt;mempertanggung jawabkan hasil verifikasi&lt;br&gt;&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="332.25" y="525" width="188.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hTwiifSXvIFK9xggTOiT-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.002;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="96z63uC0hUcVTsx6QNmi-3" target="pMevoOXxBbqRg2BDYsxg-8">
+        <mxCell id="hTwiifSXvIFK9xggTOiT-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.002;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="96z63uC0hUcVTsx6QNmi-3" target="pMevoOXxBbqRg2BDYsxg-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559" y="568" as="sourcePoint" />
             <mxPoint x="609" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hTwiifSXvIFK9xggTOiT-11" value="Terverifikasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hTwiifSXvIFK9xggTOiT-9">
+        <mxCell id="hTwiifSXvIFK9xggTOiT-11" value="Terverifikasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hTwiifSXvIFK9xggTOiT-9" vertex="1" connectable="0">
           <mxGeometry x="0.0199" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -67,58 +67,58 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lVSrQrDUF3tsuHuzIAzE" name="Page-2">
-    <mxGraphModel dx="1956" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0apiThAy_gKmmqiAfRgH-1" value="Use Case&lt;br&gt;Verifikasi RKA&lt;br&gt;User Verifikator" style="html=1;verticalAlign=top;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="0apiThAy_gKmmqiAfRgH-1" value="Use Case&lt;br&gt;Verifikasi RKA&lt;br&gt;User Verifikator" style="html=1;verticalAlign=top;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry width="850" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="0sRKCEy1JjDfql_zZIiA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8JRnlCUUlaflA8N7LUeI-1" target="OKG14vbFoCLeE2cc5MMn-1">
+        <mxCell id="0sRKCEy1JjDfql_zZIiA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8JRnlCUUlaflA8N7LUeI-1" target="OKG14vbFoCLeE2cc5MMn-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="232" y="157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8JRnlCUUlaflA8N7LUeI-1" value="User Verifikator Awal&lt;br&gt;-&amp;nbsp;BAPPEDA&lt;br&gt;- BPPKAD&lt;br&gt;- ADBANG &lt;br&gt;-PUPR&lt;br&gt;-PBJ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="8JRnlCUUlaflA8N7LUeI-1" value="User Verifikator Awal&lt;br&gt;-&amp;nbsp;BAPPEDA&lt;br&gt;- BPPKAD&lt;br&gt;- ADBANG &lt;br&gt;-PUPR&lt;br&gt;-PBJ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="107" y="127" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0sRKCEy1JjDfql_zZIiA-1" value="&lt;ul&gt;&lt;li&gt;BAPPEDA&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi indikator prog/keg, sumber dana, pagu.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;BPPKAD&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian belanja dan rekening.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;ADBANG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;PUPR&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pembangunan gedung.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;PBJ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pengadaan barang dan jasa.&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+        <mxCell id="0sRKCEy1JjDfql_zZIiA-1" value="&lt;ul&gt;&lt;li&gt;BAPPEDA&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi indikator prog/keg, sumber dana, pagu.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;BPPKAD&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian belanja dan rekening.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;ADBANG&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;PUPR&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pembangunan gedung.&lt;/div&gt;&lt;/blockquote&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;PBJ&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;Verifikasi rincian rekening belanja pengadaan barang dan jasa.&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="617" y="127" width="150" height="409" as="geometry" />
         </mxCell>
-        <mxCell id="OKG14vbFoCLeE2cc5MMn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OKG14vbFoCLeE2cc5MMn-1">
+        <mxCell id="OKG14vbFoCLeE2cc5MMn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OKG14vbFoCLeE2cc5MMn-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="617" y="157" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCTByXO_PLtvu8HBWgx3-9" value="diverifikasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OKG14vbFoCLeE2cc5MMn-3">
+        <mxCell id="QCTByXO_PLtvu8HBWgx3-9" value="diverifikasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OKG14vbFoCLeE2cc5MMn-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0837" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OKG14vbFoCLeE2cc5MMn-1" value="VERIFIKASI AWAL&lt;br&gt;5 USER VERIFIKATOR" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="OKG14vbFoCLeE2cc5MMn-1" value="VERIFIKASI AWAL&lt;br&gt;5 USER VERIFIKATOR" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="357" y="127" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2lsAz-MQzfeOSD-nION-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QCTByXO_PLtvu8HBWgx3-1" target="A2lsAz-MQzfeOSD-nION-1">
+        <mxCell id="A2lsAz-MQzfeOSD-nION-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QCTByXO_PLtvu8HBWgx3-1" target="A2lsAz-MQzfeOSD-nION-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QCTByXO_PLtvu8HBWgx3-1" value="VERIFIKASI AKHIR&lt;br&gt;INSPEKTORAT" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QCTByXO_PLtvu8HBWgx3-1" value="VERIFIKASI AKHIR&lt;br&gt;INSPEKTORAT" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="357" y="476" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QCTByXO_PLtvu8HBWgx3-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.928;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0sRKCEy1JjDfql_zZIiA-1" target="QCTByXO_PLtvu8HBWgx3-1">
+        <mxCell id="QCTByXO_PLtvu8HBWgx3-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.001;exitY=0.928;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="0sRKCEy1JjDfql_zZIiA-1" target="QCTByXO_PLtvu8HBWgx3-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="597" y="537" as="sourcePoint" />
             <mxPoint x="497" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCTByXO_PLtvu8HBWgx3-10" value="terverifikasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QCTByXO_PLtvu8HBWgx3-6">
+        <mxCell id="QCTByXO_PLtvu8HBWgx3-10" value="terverifikasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QCTByXO_PLtvu8HBWgx3-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0814" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCTByXO_PLtvu8HBWgx3-7" value="User Verifikator Akhir&lt;br&gt;Inspektorat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="QCTByXO_PLtvu8HBWgx3-7" value="User Verifikator Akhir&lt;br&gt;Inspektorat" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="107" y="476" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QCTByXO_PLtvu8HBWgx3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QCTByXO_PLtvu8HBWgx3-7" target="QCTByXO_PLtvu8HBWgx3-1">
+        <mxCell id="QCTByXO_PLtvu8HBWgx3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QCTByXO_PLtvu8HBWgx3-7" target="QCTByXO_PLtvu8HBWgx3-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="167" y="505.38" as="sourcePoint" />
             <mxPoint x="307" y="505.38" as="targetPoint" />
@@ -127,10 +127,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2lsAz-MQzfeOSD-nION-1" value="&lt;b&gt;USER PPTK&lt;br&gt;mempertanggung jawabkan hasil verifikasi&lt;br&gt;&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="A2lsAz-MQzfeOSD-nION-1" value="&lt;b&gt;USER PPTK&lt;br&gt;mempertanggung jawabkan hasil verifikasi&lt;br&gt;&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="330.25" y="617" width="188.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="205VvhNBpbWCn1Qr3qUZ-1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Keterangan:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="html=1;fontColor=#000000;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="205VvhNBpbWCn1Qr3qUZ-1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Keterangan:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="html=1;fontColor=#000000;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="387" y="830" width="380" height="140" as="geometry" />
         </mxCell>
       </root>
